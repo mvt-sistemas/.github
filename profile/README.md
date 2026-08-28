@@ -1,14 +1,8 @@
-## Municipalidad de venado tuerto
+<div align="center">
+<img width="350" height="190" alt="image" src="https://github.com/user-attachments/assets/05a72bbc-ad33-4ac4-b398-7aa80ad6b966" />
+</div>
+
+## Gobierno de venado tuerto
 > ### Oficina de Cómputos - Desarrollo de Software
 
 Organización de GitHub para repositorios que almacenan desarrollo interno de software.
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
